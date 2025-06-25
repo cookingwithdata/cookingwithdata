@@ -5,6 +5,13 @@
 
 Here are some ideas to get you started:
 
+## 📌 My Current Stack and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
+</p>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
