@@ -45,8 +45,7 @@
 
 ### Project management and communication
 </p>  
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Confluence-blue?logo=confluence" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" /> <img src="https://img.shields.io/badge/Confluence-blue?logo=confluence" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" />
