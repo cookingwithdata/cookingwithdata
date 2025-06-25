@@ -38,5 +38,5 @@
 
 Feel free to reach out or connect:
 
-[LinkedIn](https://www.linkedin.com/in/olena-tabunshchyk-069140283/) • [Email](mailto:ot.tabunshchyk@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jeremie-amoroso/) • [Email](mailto:amorosojeremie@gmail.com)
 
